@@ -1,7 +1,4 @@
 //write a java program to define menu driven calculator using switch statement
-
-
-
 package loop;
 import java.util.Scanner;
 public class SWITCHCASE2 {
@@ -58,12 +55,6 @@ public class SWITCHCASE2 {
 	default:
 		System.out.println("invalid operations");
 	}
-	
-		
-	
-	
-	
-	
 	scan.close();
 
 	}
