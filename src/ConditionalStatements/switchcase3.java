@@ -1,7 +1,7 @@
 //write a java program to check weather the character is vowel or consonent. 
 
 
-package loop;
+package ConditionalStatements;
 import java.util.Scanner;
 public class switchcase3 {
 

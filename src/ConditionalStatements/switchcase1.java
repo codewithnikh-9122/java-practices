@@ -1,6 +1,6 @@
 //write a java program in java to print days along day number
 
-package loop;
+package ConditionalStatements;
 import java.util.Scanner;
 public class switchcase1 {
 	

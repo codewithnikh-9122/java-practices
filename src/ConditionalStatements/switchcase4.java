@@ -1,4 +1,4 @@
-package loop;
+package ConditionalStatements;
 import java.util.Scanner;
 public class switchcase4 {
 

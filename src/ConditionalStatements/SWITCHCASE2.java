@@ -1,5 +1,5 @@
 //write a java program to define menu driven calculator using switch statement
-package loop;
+package ConditionalStatements;
 import java.util.Scanner;
 public class SWITCHCASE2 {
 
