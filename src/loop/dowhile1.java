@@ -8,8 +8,8 @@ the application should repeatedly display a menu until
 the user chooses to exit. Use a menu-driven application implemented with
 a do-while and switch statements)
 */
-
 package loop;
+
 import java.util.Scanner;
 public class dowhile1 {
 
