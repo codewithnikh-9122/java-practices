@@ -26,7 +26,7 @@
 
 package ConditionalStatements;
 import java.util.Scanner;
-public class SWITCHCASE5 {
+public class switchcase5 {
 
 	public static void main(String[] args) {
 		Scanner scan=new Scanner(System.in);

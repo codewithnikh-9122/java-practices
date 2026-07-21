@@ -1,7 +1,7 @@
 //write a java program to define menu driven calculator using switch statement
 package ConditionalStatements;
 import java.util.Scanner;
-public class SWITCHCASE2 {
+public class switchcase2 {
 
 	public static void main(String[] args) {
 	Scanner scan=new Scanner(System.in);
